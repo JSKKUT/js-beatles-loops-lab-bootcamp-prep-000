@@ -26,8 +26,7 @@ function johnLennonFacts(facts) {
 //   result = result + i;
 // } while (i < 5);
 
-// 1) Beatles Loops iLoveTheBeatles returns an array of 'I love the Beatles!' 8 times when passed the parameter 7 :
-// ReferenceError: iLoveTheBeatles is not defined
+// 
 
 // 2) Beatles Loops iLoveTheBeatles returns an array of 'I love the Beatles!' once when passed the parameter 17: MEANING IT FAILS
 // ReferenceError: iLoveTheBeatles is not defined

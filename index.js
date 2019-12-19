@@ -20,16 +20,6 @@ function johnLennonFacts(facts) {
 }
 
 
-// var i = 0;
-// do {
-//   i = i + 1;
-//   result = result + i;
-// } while (i < 5);
-
-// 
-
-// 2) 
-
 function iLoveTheBeatles(number) {
   var i = 0
   var newArray = []
